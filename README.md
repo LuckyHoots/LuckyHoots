@@ -14,9 +14,7 @@
   
   🔭 I’m currently working on **Stratum**
   
-  🌱 I’m currently learning **Unreal Engine 5**
-
-  👯 I’m looking to collaborate with **other fellow content creators!**
+  🌱 I’m currently learning **Rust game development**
 
   ⚡ Fun fact: **I drink too much coffee**
   
@@ -54,7 +52,7 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp,html,css,js,rust" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp,html,css,js,rs" />
     </a>
   </p>
 </div>
