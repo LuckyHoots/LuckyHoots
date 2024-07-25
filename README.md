@@ -35,12 +35,12 @@
 
 </br>
 
-<h3 align="center">Programs I Use</h3>
+<h3 align="center">Programs I Currently Use</h3>
 
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=pr,ae,blender,figma,git,github,godot,unity,unreal,idea,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=pr,ae,blender,figma,git,github,godot,idea,visualstudio" />
     </a>
   </p>
 </div>
