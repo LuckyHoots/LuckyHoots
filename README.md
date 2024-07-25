@@ -40,7 +40,7 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=pr,ae,blender,figma,git,github,godot,idea,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=pr,ae,blender,figma,git,github,godot,idea,visualstudio,aseprite" />
     </a>
   </p>
 </div>
