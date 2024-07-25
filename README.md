@@ -47,12 +47,12 @@
 
 </br>
 
-<h3 align="center">Languages I Use</h3>
+<h3 align="center">Languages I Currently Use</h3>
 
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp,html,css,js,rust" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,rust" />
     </a>
   </p>
 </div>
