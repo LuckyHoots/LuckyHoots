@@ -54,7 +54,7 @@
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp,html,css,js,rs" />
     </a>
   </p>
 </div>
