@@ -26,7 +26,8 @@ I'm a 17-year-old game developer from the heart of Scotland. Welcome to my GitHu
 
 ## 🔧 Technologies & Tools
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ff0000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bevy](https://img.shields.io/badge/Bevy-F7931E?style=for-the-badge&logo=bevy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
